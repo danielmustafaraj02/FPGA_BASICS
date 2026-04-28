@@ -105,20 +105,7 @@ It focuses on building core digital logic concepts step by step through simulati
 * Test patterns like `0001`, `1010`, `0100`
 
 
-## Exercise 8: 7-Segment Decoder
-
-**Goal:** Use `case` statements.
-
-**Task:**
-
-* Map binary values `0–9` to a 7-bit display output
-
-**Testbench:**
-
-* Iterate through values 0 to 9
-
-
-## Exercise 9: D Flip-Flop
+## Exercise 8: D Flip-Flop
 
 **Goal:** Sequential logic and clocking.
 
@@ -133,7 +120,7 @@ It focuses on building core digital logic concepts step by step through simulati
 * Verify output updates only on clock edge
 
 
-## Exercise 10: Counter
+## Exercise 9: Counter
 
 **Goal:** State evolution.
 
@@ -147,7 +134,7 @@ It focuses on building core digital logic concepts step by step through simulati
 * Run for at least 20 cycles
 
 
-## Exercise 11: Shift Register
+## Exercise 10: Shift Register
 
 **Goal:** Serial data movement.
 
@@ -161,7 +148,7 @@ It focuses on building core digital logic concepts step by step through simulati
 * Input sequence: `1` followed by zeros
 
 
-## Exercise 12: PWM Generator
+## Exercise 11: PWM Generator
 
 **Goal:** Generate periodic signals.
 
@@ -175,7 +162,7 @@ It focuses on building core digital logic concepts step by step through simulati
 * Set duty cycle to 50%
 
 
-## Exercise 13: Moore FSM
+## Exercise 12: Moore FSM
 
 **Goal:** State-based design.
 
@@ -189,7 +176,7 @@ It focuses on building core digital logic concepts step by step through simulati
 * Input: `1, 1, 1, 0`
 
 
-## Exercise 14: Mealy FSM
+## Exercise 13: Mealy FSM
 
 **Goal:** Input-dependent output.
 
@@ -203,7 +190,7 @@ It focuses on building core digital logic concepts step by step through simulati
 * Compare timing with Moore FSM
 
 
-## Exercise 15: Traffic Light Controller
+## Exercise 14: Traffic Light Controller
 
 **Goal:** Combine FSM and timing.
 
