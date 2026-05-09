@@ -3,6 +3,7 @@
 This repository is a collection of hands-on exercises designed to help you learn the basics of FPGA design using Verilog.
 It focuses on building core digital logic concepts step by step through simulation and practice.
 
+https://www.asic-world.com/verilog/index.html
 
 ## Exercise 1: Identity Module
 
